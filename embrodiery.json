@@ -1,0 +1,133 @@
+{
+   "pc": "com.alkstudio.embrodiery",
+   "kang_zayvius": [
+       {
+          "id": "1",
+          "tittle": "Cartoon",
+          "date": "2022-09-25",
+          "link_file": "https://archive.org/download/fishh/Cartoon.zip",
+          "format_file":"zip",
+          "images": "https://ia801403.us.archive.org/11/items/fishh/toon.jpg"
+        },
+        {
+          "id": "2",
+          "tittle": "Tiger",
+          "date": "2022-09-25",
+          "link_file": "https://archive.org/download/fishh/tiger.zip",
+          "format_file":"zip",
+          "images": "https://ia801403.us.archive.org/11/items/fishh/tigerr.jpg"
+        },
+       {
+        "id": "3",
+        "tittle": "Tayo",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/tayo.zip",
+        "format_file":"zip",
+        "images": "https://ia801403.us.archive.org/11/items/fishh/tayo.jpg"
+      },
+      {
+        "id": "4",
+        "tittle": "Tree Second",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/tree%20second.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/Tanpa%20judul.jpg"
+      },
+      {
+        "id": "5",
+        "tittle": "Squidward",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/squidwad.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/squid.jpg"
+      },
+      {
+        "id": "6",
+        "tittle": "Polo",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/polo.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/poloo.jpg"
+      },
+      {
+        "id": "7",
+        "tittle": "Patric",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/patric.zip",
+        "format_file":"zip",
+        "images": "https://ia801403.us.archive.org/11/items/fishh/patric.jpg"
+      },
+      {
+        "id": "8",
+        "tittle": "Mickey",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/mickey.zip",
+        "format_file":"zip",
+        "images": "https://ia801403.us.archive.org/11/items/fishh/mickey.jpg"
+      },
+      {
+        "id": "9",
+        "tittle": "K pop",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/kpop.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/kpopp.jpg"
+      },
+      {
+        "id": "10",
+        "tittle": "Dragon Rider",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/dragon%20ridder.zip",
+        "format_file":"zip",
+        "images": "https://ia801403.us.archive.org/11/items/fishh/hoody.jpg"
+      },
+      {
+        "id": "11",
+        "tittle": "Club Ball",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/club%20ball.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/ball.jpg"
+      },
+      {
+        "id": "12",
+        "tittle": "Fish",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/Fish.zip",
+        "format_file":"zip",
+        "images": "https://archive.org/download/fishh/fishh.jpg"
+      },
+      {
+        "id": "13",
+        "tittle": "Flag",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/FLAGS.zip",
+        "format_file":"zip",
+        "images": "https://ia801403.us.archive.org/11/items/fishh/flagg.jpg"
+      },
+      {
+        "id": "14",
+        "tittle": "Cat",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/Cat.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/catt.jpg"
+      },
+      {
+        "id": "15",
+        "tittle": "Car",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/Car.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/carr.jpg"
+      },
+      {
+        "id": "16",
+        "tittle": "Arabic",
+        "date": "2022-09-25",
+        "link_file": "https://archive.org/download/fishh/Arabic.zip",
+        "format_file":"zip",
+        "images": "https://ia601403.us.archive.org/11/items/fishh/arab.jpg"
+      }
+   ]
+}
